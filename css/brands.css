@@ -38,6 +38,13 @@
 	--button-border:1px solid #ffffff;
 }
 
+/* BedBugZ */
+.button-bedbugz {
+    --button-text: #ffffff;
+    --button-background: #5e0070;
+    --button-border: 1px solid #FFFFFF;
+}
+
 /* Amazon */
 .button-amazon {
 	--button-text:#000000;
